@@ -1,4 +1,4 @@
-This is basicly just my Testing of the C# language.
+This is basicly just me Testing of the C# language.
 
 BookSeller
 -----------
