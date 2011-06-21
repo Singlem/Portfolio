@@ -1,0 +1,27 @@
+c:\users\singlem\documents\visual studio 2010\Projects\BookSeller\BookSeller\bin\Debug\BookSeller.exe
+c:\users\singlem\documents\visual studio 2010\Projects\BookSeller\BookSeller\bin\Debug\BookSeller.pdb
+c:\users\singlem\documents\visual studio 2010\Projects\BookSeller\BookSeller\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\singlem\documents\visual studio 2010\Projects\BookSeller\BookSeller\obj\x86\Debug\BookSeller.frmLogIn.resources
+c:\users\singlem\documents\visual studio 2010\Projects\BookSeller\BookSeller\obj\x86\Debug\BookSeller.Properties.Resources.resources
+c:\users\singlem\documents\visual studio 2010\Projects\BookSeller\BookSeller\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\singlem\documents\visual studio 2010\Projects\BookSeller\BookSeller\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\singlem\documents\visual studio 2010\Projects\BookSeller\BookSeller\obj\x86\Debug\BookSeller.exe
+c:\users\singlem\documents\visual studio 2010\Projects\BookSeller\BookSeller\obj\x86\Debug\BookSeller.pdb
+c:\users\singlem\documents\visual studio 2010\Projects\BookSeller\BookSeller\obj\x86\Debug\BookSeller.frmMain.resources
+C:\Users\Singlem\Documents\Visual Studio 2010\Projects\BookSeller\BookSeller\obj\x86\Debug\BookSeller.frmBookViewer.resources
+C:\Users\Singlem\Documents\Visual Studio 2010\Projects\BookSeller\BookSeller\obj\x86\Debug\BookSeller.frmViewClients.resources
+C:\Users\Singlem\Documents\Visual Studio 2010\Projects\BookSeller\BookSeller\obj\x86\Debug\BookSeller.frmSaleAndHire.resources
+E:\BookSeller\BookSeller\obj\x86\Debug\BookSeller.exe
+E:\BookSeller\BookSeller\obj\x86\Debug\BookSeller.pdb
+E:\BookSeller\BookSeller\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BookSeller\BookSeller\obj\x86\Debug\BookSeller.frmBookViewer.resources
+E:\BookSeller\BookSeller\obj\x86\Debug\BookSeller.frmLogIn.resources
+E:\BookSeller\BookSeller\obj\x86\Debug\BookSeller.frmMain.resources
+E:\BookSeller\BookSeller\obj\x86\Debug\BookSeller.frmSaleAndHire.resources
+E:\BookSeller\BookSeller\obj\x86\Debug\BookSeller.frmViewClients.resources
+E:\BookSeller\BookSeller\obj\x86\Debug\BookSeller.Properties.Resources.resources
+E:\BookSeller\BookSeller\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BookSeller\BookSeller\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\BookSeller\BookSeller\bin\Debug\BookSeller.exe
+E:\BookSeller\BookSeller\bin\Debug\BookSeller.pdb
+E:\BookSeller\BookSeller\obj\x86\Debug\BookSeller.frmOrder.resources

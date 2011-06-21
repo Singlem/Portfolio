@@ -1,0 +1,12 @@
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\bin\Debug\Auto-Compiler.exe.config
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\bin\Debug\Auto-Compiler.exe
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\bin\Debug\Auto-Compiler.pdb
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\Debug\Auto_Compiler.frmMain.resources
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\Debug\Auto_Compiler.frmSettings.resources
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\Debug\Auto_Compiler.Properties.Resources.resources
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\Debug\Auto-Compiler.exe
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\Debug\Auto-Compiler.pdb
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\Debug\Auto_Compiler.frmTimer.resources

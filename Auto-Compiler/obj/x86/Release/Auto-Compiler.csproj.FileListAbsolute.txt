@@ -1,0 +1,11 @@
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\bin\Release\Auto-Compiler.exe.config
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\bin\Release\Auto-Compiler.exe
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\bin\Release\Auto-Compiler.pdb
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\x86\Release\Auto_Compiler.frmMain.resources
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\x86\Release\Auto_Compiler.frmSettings.resources
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\x86\Release\Auto_Compiler.Properties.Resources.resources
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\x86\Release\Auto-Compiler.exe
+C:\Users\Singlem\Desktop\AC\Auto-Compiler\Auto-Compiler\obj\x86\Release\Auto-Compiler.pdb
