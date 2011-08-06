@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>Ripway.com - fast, free file hosting and website hosting</title>
+<meta http-equiv="refresh" content="10;url=http://www.ripway.com/"> 
+</head>
+<body>
+<font face=verdana size=2 color=#000000>
+<font size=5 face=verdana><b>Ripway Web Hosting</b></font>
+<hr>
+<center>
+<script language="javascript" src="http://www.ripway.com/ads/ads.asp?size=leaderboard&site=RIPWAYERROR"></script>
+</center>
+
+<font size=4 face=times><b>File Not Found</b></font>
+<hr>
+</font>
+The file or folder you've requested could not be found.  Please check the URL and try again.
+<p>
+
+
+	<center>
+          <table>
+            <tr>
+              <td align="left" valign="top" class="footertext">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="103"><img src="http://www.ripway.com/images/small_rw_logo.gif" width="103" height="18"></td>
+                    <td width="91%" background="http://www.ripway.com/images/fotter_rule.gif">&nbsp;</td>
+                  </tr>
+                </table>
+                <font size=1 face=verdana>
+                All artwork, content, and programming, with the exception of content uploaded by our members copyright &copy; 2002, 2003 <a href="http://www.ripside.com">Ripside 
+                Interactive, L.L.C.</a> All photos and electronic content uploaded 
+                or installed by our customers are copyright their respective owner. 
+                View our <a href="/tos.asp">Terms of Service</a> for usage restrictions 
+                or the <a href="/privacy.asp">Privacy Statement</a> for information 
+                regarding your privacy.</font></td>
+            </tr>
+          </table>
+
+
+
+
+</center>
+</body>
+</html>

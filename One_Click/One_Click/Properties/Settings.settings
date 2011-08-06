@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="One_Click.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="User" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="Pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mangos</Value>
+    </Setting>
+    <Setting Name="Host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="DB_Mangos" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mangos</Value>
+    </Setting>
+    <Setting Name="DB_Char" Type="System.String" Scope="User">
+      <Value Profile="(Default)">characters</Value>
+    </Setting>
+    <Setting Name="DB_Realm" Type="System.String" Scope="User">
+      <Value Profile="(Default)">realmd</Value>
+    </Setting>
+    <Setting Name="DB_Scriptdev" Type="System.String" Scope="User">
+      <Value Profile="(Default)">scriptdev2</Value>
+    </Setting>
+    <Setting Name="CoreGit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://github.com/Infinity/core.git</Value>
+    </Setting>
+    <Setting Name="DatabaseGit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://github.com/Infinity/fullDB.git</Value>
+    </Setting>
+    <Setting Name="ScriptdevGit" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://github.com/Infinity/sd2.git</Value>
+    </Setting>
+    <Setting Name="ACPlatform" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ACConfig" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ServerPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="WordExe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mangosd.exe</Value>
+    </Setting>
+    <Setting Name="RealmExe" Type="System.String" Scope="User">
+      <Value Profile="(Default)">realmd.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
