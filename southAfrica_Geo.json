@@ -1,36 +1,10 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              16.45191,
-              -34.83413
-            ],
-            [
-              32.94498,
-              -34.83413
-            ],
-            [
-              32.94498,
-              -22.12503
-            ],
-            [
-              16.45191,
-              -22.12503
-            ],
-            [
-              16.45191,
-              -34.83413
-            ]
-          ]
-        ]
-      }
-    }
-  ]
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [125.6, 10.1]
+  },
+  "properties": {
+    "name": "Dinagat Islands"
+  }
 }
